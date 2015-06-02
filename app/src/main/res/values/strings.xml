@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entertainment</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_expense">Expense</string>
+    <string name="str_income">Income</string>
+    <string name="str_balance">Balance</string>
+    <string name="str_Ok">Ok</string>
+    <string name="str_authenticate">Authenticate</string>
+</resources>
